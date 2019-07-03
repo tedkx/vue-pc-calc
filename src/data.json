@@ -1,0 +1,209 @@
+{
+  "parts": [
+    {
+      "type": "Tower",
+      "listings": [
+        {
+          "best": 79.87,
+          "link": "https://www.skroutz.gr/s/15300957/NZXT-H500.html",
+          "name": "NZXT H500 White",
+          "price": 79.87,
+          "selected": true
+        },
+        {
+          "best": 105,
+          "link": "https://www.skroutz.gr/s/15608538/CoolerMaster-MasterCase-H500.html",
+          "name": "CoolerMaster MasterCase H500",
+          "price": 108.5
+        }
+      ]
+    },
+    {
+      "type": "PSU",
+      "listings": [
+        {
+          "best": 74,
+          "link": "https://www.skroutz.gr/s/11394987/Corsair-TX-M-Series-TX550M.html",
+          "name": "Corsair TM 550x",
+          "price": 74,
+          "selected": true
+        }
+      ]
+    },
+    {
+      "type": "Motherboard",
+      "listings": [
+        {
+          "best": 84.3,
+          "link": "https://www.skroutz.gr/s/15598771/Asrock-Fatal1ty-B450-Gaming-K4.html",
+          "name": "Asrock Fatal1ty B450 Gaming K4",
+          "price": 84.3,
+          "selected": true
+        },
+        {
+          "best": 107.99,
+          "link": "https://www.skroutz.gr/s/15570073/MSI-B450-Tomahawk.html",
+          "name": "MSI B450 Tomahawk",
+          "price": 107.99
+        },
+        {
+          "best": 131.79,
+          "link": "https://www.skroutz.gr/s/14745562/MSI-X470-Gaming-Pro.html",
+          "name": "MSI X470 Gaming Pro",
+          "price": 131.79,
+          "selected": true
+        },
+        {
+          "best": 134.54,
+          "link": "https://www.skroutz.gr/s/14722753/Gigabyte-X470-Aorus-Ultra-Gaming.html",
+          "name": "Gigabyte X470 Aorus Ultra Gaming",
+          "price": 139
+        }
+      ]
+    },
+    {
+      "type": "CPU",
+      "listings": [
+        {
+          "best": 273.3,
+          "link": "https://www.skroutz.gr/s/14650952/AMD-Ryzen-7-2700X-Box.html",
+          "name": "Ryzen 2700x",
+          "price": 273.3,
+          "selected": true
+        },
+        {
+          "best": 363.9,
+          "link": "https://www.skroutz.gr/s/12979212/Intel-Core-i7-8700K-Box.html",
+          "name": "Intel Core i7 8700K",
+          "price": 363.9
+        }
+      ]
+    },
+    {
+      "optional": true,
+      "type": "Cooler",
+      "listings": [
+        {
+          "best": 33.15,
+          "link": "https://www.skroutz.gr/s/418744/CoolerMaster-Hyper-212-EVO.html",
+          "name": "CoolerMaster Hyper 212 Evo",
+          "price": 33.15
+        }
+      ]
+    },
+    {
+      "type": "Memory",
+      "listings": [
+        {
+          "best": 79.8,
+          "link": "https://www.skroutz.gr/s/7730092/G-Skill-RipjawsV-16GB-DDR4-3200MHz-F4-3200C16D-16GVKB.html",
+          "group": "G.Skill Tridentz 3200MHz",
+          "name": "16BG",
+          "price": 80.79,
+          "selected": true
+        },
+        {
+          "best": 155.5,
+          "link": "https://www.skroutz.gr/s/8001844/G-Skill-RipjawsV-32GB-DDR4-3200MHz-F4-3200C16D-32GVK.html",
+          "group": "G.Skill Tridentz 3200MHz",
+          "name": "32BG",
+          "price": 155.5
+        }
+      ]
+    },
+    {
+      "type": "SSD",
+      "listings": [
+        {
+          "best": 73.65,
+          "link": "https://www.skroutz.gr/s/13867020/Samsung-860-Evo-500GB.html",
+          "name": "Samsung 860 Evo 500GB",
+          "price": 74.3
+        },
+        {
+          "best": 127,
+          "link": "https://www.skroutz.gr/s/13866953/Samsung-860-Evo-1TB.html",
+          "name": "Samsung 860 Evo 1TB",
+          "price": 127,
+          "selected": true
+        }
+      ]
+    },
+    {
+      "type": "HDD",
+      "listings": [
+        {
+          "best": 35.27,
+          "link": "https://www.skroutz.gr/s/2195774/Western-Digital-Blue-3-5-1TB-7200rpm.html",
+          "name": "Western Digital Blue 3.5 1TB",
+          "price": 35.27,
+          "selected": true
+        }
+      ]
+    },
+    {
+      "type": "Graphics",
+      "listings": [
+        {
+          "best": 191.35,
+          "link": "https://www.skroutz.gr/s/11715351/Sapphire-Radeon-RX-580-4GB-Nitro-11265-07.html",
+          "name": "Sapphire Nitro+",
+          "price": 191.35,
+          "group": "RX 580 4GB",
+          "selected": true
+        },
+        {
+          "best": 235,
+          "link": "https://www.skroutz.gr/s/11715340/Sapphire-Radeon-RX-580-8GB-Nitro-11265-01.html",
+          "name": "Sapphire Nitro+",
+          "price": 235,
+          "group": "RX 580 8GB"
+        },
+        {
+          "best": 163.99,
+          "link": "https://www.skroutz.gr/s/14016011/MSI-Radeon-RX-570-8GB-Armor-OC.html",
+          "name": "MSI OC",
+          "price": 163.99,
+          "group": "RX 570 8GB"
+        },
+        {
+          "best": 229,
+          "link": "https://www.skroutz.gr/s/11721846/Gigabyte-Radeon-RX-580-8GB-Gaming-GV-RX580GAMING-8GD.html",
+          "name": "Gigabyte Gaming",
+          "price": 229,
+          "group": "RX 580 8GB"
+        }
+      ]
+    },
+    {
+      "type": "Monitor",
+      "listings": [
+        {
+          "best": 216.7,
+          "link": "https://www.skroutz.gr/s/12714506/Dell-P2418D.html",
+          "name": "Dell P2418D",
+          "price": 216.7
+        },
+        {
+          "best": 203.8,
+          "link": "https://www.skroutz.gr/s/8693353/Dell-UltraSharp-U2417H.html",
+          "name": "Dell U2417H",
+          "price": 203.8
+        },
+        {
+          "best": 199,
+          "link": "https://www.skroutz.gr/s/16298261/Dell-U2419H.html",
+          "name": "Dell U2419H",
+          "price": 199,
+          "selected": true
+        },
+        {
+          "best": 344.33,
+          "link": "https://www.skroutz.gr/s/8714167/Dell-U2717D.html",
+          "name": "Dell U2717D",
+          "price": 344.33
+        }
+      ]
+    }
+  ]
+}
